@@ -1,5 +1,5 @@
 {
-	"name": "enver/laravel-pos",
+	"name": "mews/laravel-pos",
 	"type": "package",
 	"description": "Laravel 5 Pos Package",
 	"keywords": ["laravel5 pos", "laravel5 sanal pos"],
@@ -16,7 +16,7 @@
 	"require": {
 		"php": "^7.1.3",
 		"illuminate/config": "~5.5|~5.6",
-		"enver/pos": "~0.1.9"
+		"mews/pos": "~0.1.8"
 	},
 	"require-dev": {
 		"orchestra/testbench": "~3.4.0|~3.5.0",
